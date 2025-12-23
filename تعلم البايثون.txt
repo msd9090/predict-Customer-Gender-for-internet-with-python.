@@ -1,0 +1,486 @@
+stm.(5,3,mdet test_ahmoud 7)ean
+def star
+
+qwertyuiopasdfghjkzxcvbnm
+() :
+
+print(**)
+
+ : (10)
+ star
+for kin range     
+
+s=star  
+s()s  
+def find_avg(a,b): 
+ average=(a=b)/2
+ print("average is ",averaga)
+find_avg(2,3)
+def find-avg(*number)
+sum=0 
+sum+=i
+("average is",sum/(len(number))) print
+find_avg(1,2)
+find_avg(2,3,4)
+find_avg(1,2,3,4,
+det print_values(**values)
+print (values)
+print_values(one = 1, two =2) 
+def print-values(**values)
+ for key, values in values .items() :
+print("{}={}" . format(key,values))
+def show_details(a,b,*args,**kwarge):
+print("is are",a)
+print(are is ",i)
+show_delatils(1,2,3,))
+print("--------")
+def test_kwarge(agre1 ,ager2, ggar3)
+print(ager11", ager1)
+print("ager2", gare2)
+arge(two" ,3.5)
+test_arge_kwarge(*arge)
+kwarge()
+test_arge_kwarge(**kwarge)
+det powers(m, n =4)
+print(m**(n))
+powers(3,2)
+int(input("frint="
+form numpy impot 
+a=random .randint(5,20, 9=sive).reshape(3,3)
+b=random.randint(5,20, 9=sive).reshape(3,3)
+c=a+b
+d=a-b
+
+
+print(a)
+print('----------')
+c=sin(a0
+d=b**9
+e=con(a)
+b=a.sum()
+c=dot(a,b)
+d=a.sum(axis=1)
+e=a.sum(sxis=0)
+b=a.meam()
+e=a.std
+f=a.vwr()
+
+b=sort(a,axis=0)
+c=sort(a,axis=1)
+from numpy import * 
+dtype1=dtype([('gandr' , '51'),('hight')])
+a= loadtxt(fname, dtype=dtype1,skiprows=9, usecols(1,3))
+print()
+a,b,c=loadtxt('d:\\1.txt, unpack=ture, skiprows=3)
+data=gnefromtxt('D:\\0.txt'skip-header=1,dtype[('',''),('','')],delimiter=',',missiing-values='x')
+from matpolib import pyplot as plt 
+
+plt. 
+
+import matpolind print (matpolint.-version-)
+pit.styie.use(' ')
+plt.plot()
+import matplotlib.pyplot as plt 
+a=(1,2,3,3)
+plt.plot(a)
+import matpotlid.pyplot as pltt
+a=(1,2,3,4)
+b=(1,2,3,4,5)
+plt.plot(a,b)
+plt.style.use ('ggplot')
+
+import numpy as np 
+x=np.linspace(0,10)
+y=np.cos(x)
+plt.polt(x,y)
+
+plt.style.use ('ggplot')
+plt.ylabel('time')
+plt.xlabel('Work')
+plt.plot(a,b)
+plt.style.use ('ggplot')
+ax = plt.axes()
+ax.set_xlabel ('time')
+ax.set.ylabel ('Work')
+
+plt. polt(a,b)
+
+ax = plt.axes()
+ (  plt.plot(a,b,marker='o'
+ax.set(xlabel=time , ylabel=Work
+
+plt.contour(x,y,z,color='red')
+
+import matplotlib.pyplot as plt 
+
+x = [1,2,3,4,5]
+y = [1,2,3,4]
+
+imoport matplotlib.pyplot as plt
+import numpy as np 
+x = np.random.randint(1,10,6)
+y = np.random.randint(1,10,6)
+z = np.random.randint(1,1,10)
+zz = np.reshape(z(6,6))
+
+plt.contour(x, y, zz, color='red')
+
+x ,y = np.meshgrid(x,y)
+z = f(x,y)
+
+plt.clabel(contours, inline=ture, fontsize=8)
+plt.imshow(z, extent=[0,5,0,5]((,cmpe='rdgy
+mpl_tolkits.mplot3d
+from mpl_toolkits import mplot3d
+import matplotlib.pyplot as plt
+fig = plt.figure()
+ax = plt.axes(projection='3d')
+ import numpy as np 
+mylist = [[1, 2, 3,],[3, 4, 5]]
+myarray = np.array(mylisst)
+
+print((''matrix : %s'') % str(myarray))
+print((Matrix Dimension is : %s'') %str (myarray.shape))
+print((''First row :%s'') % myarray [0])
+print((''Last row : %s'') mrarray [-1]
+print((''Frist row third column ;%s'') % myarray [0, 2]
+print((''Third column:%s'') % myarray [:, 2]
+month ['','',''']
+sun[,,,,,]
+
+for s,m in sorted (zip(sun, month), reverse=ture):
+print('{} : {:5 .1f} hrs' .fromat(m, s))
+Fb =[]
+for t in range(21):
+if t%5==0 and t%3 ==0 :
+  fb.append('fjjh')
+elif t%5 ==0 and t%3!=0 
+ fb.append('fgh-')
+ elif %t5 ==0 and %t3! =0
+ Fb.append(hjk') 
+  else : 
+   fb =.append (t)
+ prnit(Fb)
+import math 
+ip = 0 
+for k in range(20):
+ pi += pow(-3, -k) / (2*k+1)
+pi * = math.sprt(12)
+print ('ip =', pi) 
+
+print ('error = ', ads(pi - maht.pi))
+
+a = 3# 
+b = 'mahmoud#' 
+f = 34# 
+s = 'food#' 
+print ( type(g))
+a , s , b , f = 5 , 'ahmed'  , 15 , mohamed#
+yourname , yourconutry = 'ahmed' , algeris 
+ 
+a = 14556
+f = 3.5 
+g = 8.7
+ 
+thiscase = True 
+thatcase = False 
+
+g = 7 +5j
+
+thisname = 'mahmoud'
+thatname = 'tamer' 
+
+w = str(a) 
+print(w)
+h = '43'
+ 
+r = float (h)
+o = float (b)
+
+a = 12 
+h = 5 
+
+f = complex(a,h)
+
+print(f.real . imag )
+print
+print
+t = bin(10)
+print(type(a))
+
+c = bool(0)
+peint(c)
+   a = 4 
+b = 7 
+
+c = a + b
+
+print(c)
+
+a = 50 
+b = 7 
+
+c =a//b 
+print(c+1)
+
+a = 1700
+b = 37 
+
+c = a % b
+
+print(c)
+
+a = 50
+b = 7 
+
+c = a**b
+
+peint(c)
+
+a = 30
+b = 30 
+
+print(a==b)
+
+a = 30
+b = 30
+c = 60 
+
+
+c = (a < w < b )
+
+print(c)
+
+
+a =  -30
+c = ads(x)
+print(a)
+
+a = 3.999
+
+c =int(x)
+
+print(c)
+
+import math as m 
+
+a = m.factorial(6)
+
+print(a)
+
+from math import factorial , sin 
+a = sin(60)
+
+print(a)
+
+a =m .
+a =m.exe()
+a = m.lng(5)
+a = m.lng(7, 49)
+a = m.lng10(345644)
+
+a =m.sqrt(9)
+
+a = rediens (20)
+
+a = degrees(20)
+
+a = m.sin(m.rediant(30))
+a  =m.sinh(24)
+
+a = m.pi
+a = m.inf a
+
+a = m.copysigy(4,-30)
+a = m.ciel 945.9)
+a = m.foolt(4.9)
+
+import math as n
+ 
+b = 500/23
+
+print(a)
+
+a = m.floot(5.9)
+
+a = m.ceil(5.9)
+
+a = m.erfa(8)
+
+a = m.g
+
+a = (how are you )
+print(a[4:12])
+
+a = 123456789
+print([4:12:2])
+
+a = how are you 
+print[(:7:3)]
+
+a = how are you how are you how are you
+print[(8::4)]
+
+a = 123456
+print(a[-1:4:-1])
+
+a = 1234567889123456789
+print(a[::-1])
+
+a = 'sweet home alabana'
+print(sorted(list(a)))
+
+a = 'sweet home alabana'
+print(set(a))
+
+a = 'sweet home alabana,sweet home alabana,sweet home alabana,'
+print(a.split(','))
+
+a = 12356123561235
+print(a.split ('1'))
+
+a = 1234512351
+print(a.split('9'))
+print(a.partition('1'))
+
+a = sweet home alabana
+print(a.split(','))
+
+a = ahamd@gmll.com
+a = a .split(',')
+c = a.partition('@')
+print(c)
+
+a = sweet home alabanasweet home alabana,sweet home alabana
+c = a.rpartition('@')
+print(c)
+
+a = 'ahmed'
+b = 13
+c = 3.6
+d = 8-4g
+e = ture
+a = ['ahmed' , 'zaky' , 'mone' , 20 , False , 3.8 ]
+
+
+b p= ('mahmoud'  , zaylea  , 20)
+
+b =  ('20' , '20 , '27')
+
+a =[1,3,6,9,]
+
+print(a)
+
+a =['ahmed' , 7 , 9.0 , 7-2j , [1,3,6,] , [ 'mahmoud' , 20]]
+a = [ [3,9,8,],[6,3,6],[6,5,9],[5,6,7,] ]
+ 
+
+
+a = list('I love witing code for python')
+
+b,c,d,e,f,g = a 
+
+print(a)
+
+b = ['a' , 20 , 13.7 , 'b' , 4)
+
+print(a(3))
+
+a = [1,2,3,4,5]
+
+b = a[3:5]
+
+c = a[:7]
+
+a = [1,2,4,5,6,7,8,9,]
+b = a[1:-2]
+
+print(a)
+
+
+
+z = [1,2,3,4,5,6,7,8,]
+
+a[3] = 12 
+b[1] = 34
+c[2] = 78
+d[3]= 59
+
+print(a)
+
+a[5:] = []
+  a[5] = [1,2,3,4]
+a[:] = []
+
+a ['d',''y','j']
+b = [5,7,5,7,9,8,7,0]
+c = [true , Flaus , 9,4,'b']
+
+w = [a,b,c,]
+
+print(a)
+a = [1,2,3,4,5.]
+b = [9,8,7,7,6,5,4]
+c = [3, 80, 970, ]
+
+x = [a , b , c ]
+print(a),
+
+from matplotlip import pyplot as plt 
+
+plt.
+
+import matplotlip
+
+print(matplot._version_)
+
+ plt.style.use('')
+
+bmh 
+classis
+
+ggplot 
+
+plt.polt()	`
+
+import matplotlip .pyplot as plt
+
+a = (1,2,3,4,6)
+plt.plot(a)
+impport matplotlip.pyplot as plt
+
+a = (1,2,3,45,6)
+b = (3,9,10,16,19,)
+plr.plot((a,b)
+import matp;lotlip.pyplot as plt
+a = (1,2,3,4,5,798,65,)
+b = b(1,2,3,4,5,6,7,8)
+plt.style.use (gpolt)
+plt.polt()
+
+
+import matplotlip.pyplot as plt 
+impor nummpy as np 
+plt.polt(ggpolt)
+
+x = np.linspace(0,10)
+y = npl.sin (x)
+plt.plot
+y =np.cos 
+
+import matpoltlib.pyplo as plt
+a = (54,26,96,44,09)
+b = (56,87,955,7,9)
+plt.style.use ('ggplot')
+ax = plt.axes()
+
+ax.set(xlabel = 'Time' , ylabel='work')
+plt.plot(a,b)
+plt.plot(ab marker='o')
+
+f**-1(8(log)8/2
+
+inverse10*n. 10*m= 10	\10*0=110*/n=   101/n//ntime  1012/n =10*110**1/n    10**1/n//m time  10**n/m 10**/n/m  
+f(1) = 10 = bose
+f'(x) = gh.f(x)
+log  =10//x =1/f'(f-1(x)) =1/gh.f(f-1(x))=1/gh.x=1/gh.1/vx
